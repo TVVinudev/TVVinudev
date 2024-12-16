@@ -24,11 +24,9 @@
 [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)](https://www.mongodb.com/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
-[![HTML Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)]()
-[![CSS Badge](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=for-the-badge)]()
-[![BootStrap Badge](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=for-the-badge)]()
+
 [![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
-[![MySQL Badge](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=fff&style=for-the-badge)]()
+
 
 </div>
 
