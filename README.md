@@ -1,6 +1,6 @@
 
 <h1 align="center">Olaa 👋, I'm Vinudev!</h1>
-<h3 align="center"> Designing the web for humans, coding it for machines</h3>
+<h5 align="justify"> Web Developer | MERN Stack Enthusiast | Exploring the Ethereum Blockchain. Passionate about crafting responsive websites and diving into decentralized technologies. Constantly learning and evolving to build innovative digital solutions. Let’s create something amazing together! 🚀</h5>
 
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
