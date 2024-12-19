@@ -95,3 +95,6 @@
 <img  src="https://raw.githubusercontent.com/VISHNUAJITHG/VISHNUAJITHG/output/snake.svg" alt="Snake animation" />
   </a>
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TVVinudev&show_icons=true&locale=en&layout=compact" alt="TVVinudev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TVVinudev&show_icons=true&locale=en" alt="TVVinudev" /></p>
