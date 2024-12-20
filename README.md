@@ -1,11 +1,16 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TVVinudev.TVVinudev" />
-<h1 align="center">Olaa 👋, I'm Vinudev!</h1>
-<h5 align="justify"> Web Developer | MERN Stack Enthusiast | Exploring the Ethereum Blockchain. Passionate about crafting responsive websites and diving into decentralized technologies. Constantly learning and evolving to build innovative digital solutions. Let’s create something amazing together! 🚀</h5>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tvvinudev&label=Profile%20Views&color=0e75b6&style=flat" alt="tvvinudev" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinu+Dev!;" />
+</h1>
+
+
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
 
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tvvinudev&label=Profile%20views&color=0e75b6&style=flat" alt="tvvinudev" /> </p>
+
 
 - 🌱 I’m currently learning **Blockchain Technologies**
 
