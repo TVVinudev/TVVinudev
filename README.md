@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TVVinudev.TVVinudev" />
 <h1 align="center">Olaa 👋, I'm Vinudev!</h1>
 <h5 align="justify"> Web Developer | MERN Stack Enthusiast | Exploring the Ethereum Blockchain. Passionate about crafting responsive websites and diving into decentralized technologies. Constantly learning and evolving to build innovative digital solutions. Let’s create something amazing together! 🚀</h5>
 
