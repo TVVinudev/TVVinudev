@@ -5,6 +5,7 @@
 </h1>
 
 <h2 align="center">A Passionate Web Developer from India 🇮🇳</h2>
+<br><br>
 
 <div align="center">
 🌱 I’m currently learning **Blockchain Technologies**
@@ -28,23 +29,24 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<br><br>
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-
+<br><br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,docker,solidity" /><br>
        <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
 </div>
+<br><br>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <br><br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TVVinudev/TVVinudev/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
