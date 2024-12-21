@@ -1,29 +1,35 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tvvinudev&label=Profile%20Views&color=0e75b6&style=flat" alt="tvvinudev" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinu+Dev!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Vinu+Dev!;" />
 </h1>
 
-
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
-
-
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
+<h2 align="center">A passionate software developer from India 🇮🇳</h2>
 
 
+<div align="center">
+🌱 I’m currently learning **Blockchain Technologies**
 
-- 🌱 I’m currently learning **Blockchain Technologies**
+👨‍💻 All of my projects are available at [https://vinudevtv1997.wordpress.com/](https://vinudevtv1997.wordpress.com/)
 
-- 👨‍💻 All of my projects are available at [https://vinudevtv1997.wordpress.com/](https://vinudevtv1997.wordpress.com/)
+💬 Ask me about **MERN**
 
-- 💬 Ask me about ** MERN**
+📫 How to reach me **vinudevtv@gmail.com**
+</div>
 
-- 📫 How to reach me **vinudevtv@gmail.com**
+ 
+<div align="center"> 
+  <a href="mailto:vinudevtv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinudev-t-v-38a7151ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://thakiyel3369.wixsite.com/vinudev" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinudev-t-v-38a7151ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinudev-t-v-38a7151ba/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
