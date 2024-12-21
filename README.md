@@ -39,12 +39,15 @@
        <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
 </div>
 
-
 <div align="center">
-  <a href="#">
-<img  src="https://raw.githubusercontent.com/TVVinude/TVVinudev/output/snake.svg" alt="Snake animation" />
-  </a>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TVVinudev/TVVinudev/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
+
+<hr/>
 
 <div align="justify-between">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TVVinudev&show_icons=true&locale=en&layout=compact" alt="TVVinudev" /></p>
