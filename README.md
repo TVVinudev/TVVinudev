@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">A Passionate Web Developer from India 🇮🇳</h2>
-<br><br>
+<br><br> 
 
 <div align="center">
 🌱 I’m currently learning **Blockchain Technologies**
