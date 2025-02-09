@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinu+Dev!;" />
 </h1>
 
-<h2 align="center">A Passionate Web Developer from India 🇮🇳</h2>
+<h2 align="center">An enthusiastic Indian Web and Blockchain developer 🇮🇳</h2>
 <br><br> 
 
 <div align="center">
