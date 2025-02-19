@@ -8,7 +8,7 @@
 <br><br> 
 
 <div align="center">
-🌱 I’m currently learning **𝐵𝓁𝑜𝒸𝓀𝒸𝒽𝒶𝒾𝓃 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈**
+🌱 I’m currently learning <h2>**𝐵𝓁𝑜𝒸𝓀𝒸𝒽𝒶𝒾𝓃 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈**</h2>
 
 👨‍💻 All of my projects are available at [https://vinudevtv1997.wordpress.com/](https://vinudevtv1997.wordpress.com/)
 
