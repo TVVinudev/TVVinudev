@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinu+Dev!;" />
 </h1>
 
-<h2 align="center">𝒜𝓃 𝑒𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉𝒾𝒸 𝐼𝓃𝒹𝒾𝒶𝓃 𝒲𝑒𝒷 𝒶𝓃𝒹 𝐵𝓁𝑜𝒸𝓀𝒸𝒽𝒶𝒾𝓃 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 🇮🇳</h2>
-<br><br> 
+<h2 align="center">𝙰𝚗 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚒𝚌 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <br> (𝚆𝚎𝚋, 𝙼𝚘𝚋𝚒𝚕𝚎, 𝙱𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗 𝚊𝚗𝚍 𝙳𝚎𝚜𝚔𝚝𝚘𝚙 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜)</h2>
+<br><br> <br>
 
 <div align="center">
-🌱 I’m currently learning <h2>**𝐵𝓁𝑜𝒸𝓀𝒸𝒽𝒶𝒾𝓃 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈**</h2>
+🌱 I’m currently Working as <h2>** 𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻 𝓘𝓷𝓽𝓮𝓻𝓷 **</h2>
 
 👨‍💻 All of my projects are available at [https://vinudevtv1997.wordpress.com/](https://vinudevtv1997.wordpress.com/)
 
